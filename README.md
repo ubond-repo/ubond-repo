@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡[Pentester](https://pentester.land/list-of-bug-bounty-writeups.html)
+- ⚡[hacktricks](https://book.hacktricks.xyz/welcome/readme)
+- ⚡[johnjhacking](https://johnjhacking.com/blog/p1-critical-discovering-and-foiling-a-threat-actor)
+- ⚡[it-securityguard.com](https://blog.it-securityguard.com/pbbt.png)
+- ⚡[csirt.jatengprov.go.id](https://csirt.jatengprov.go.id/bug-report-di-website-pemerintah-provinsi-jawa-tengah)
+- ⚡[dsa.karawangkab.go.id](https://dsa.karawangkab.go.id/home/vulnerabilityreport)
+- ⚡[rudrasarkar.medium.com](https://rudrasarkar.medium.com/how-i-takeover-a-company-whole-database-after-got-laravel-env-file-and-protect-to-breach-data-e999148ed4d4)
